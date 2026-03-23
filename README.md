@@ -49,3 +49,5 @@ Then open `http://localhost:8501` in your browser.
 - `sentence-transformers` — local embeddings (all-MiniLM-L6-v2)
 - `NumPy` — cosine similarity search
 - `OpenAI GPT-3.5` — answer generation
+
+
